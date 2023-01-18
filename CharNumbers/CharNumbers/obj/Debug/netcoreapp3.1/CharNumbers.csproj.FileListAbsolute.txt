@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.exe
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.deps.json
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.runtimeconfig.json
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.dll
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\bin\Debug\netcoreapp3.1\CharNumbers.pdb
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.dll
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.pdb
+C:\Users\ASUS\Desktop\Home Task 3\CharNumbers\CharNumbers\obj\Debug\netcoreapp3.1\CharNumbers.genruntimeconfig.cache
